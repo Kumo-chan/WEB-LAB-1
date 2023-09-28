@@ -2,4 +2,4 @@
 
 This repo is for a basic web site, random trivias, regrouping well.... Randoms trivias.
 
-You can view it here : link
+You can view it here : [link](https://kumo-chan.github.io/WEB-LAB-1/)
