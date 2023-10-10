@@ -30,3 +30,34 @@ body {
 h1, h2, h3, h4, h5 {
     text-align: center;
 }
+
+a:hover, a:visited {
+    color:red;
+}
+#grid {
+    display: grid;
+}
+.item-a {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: row1-start;
+    grid-row-end: 3;
+}
+.item-b {
+    grid-column-start: 2;
+    grid-column-end: five;
+    grid-row-start: row1-start;
+    grid-row-end: 3;
+}
+
+.item-c {
+    grid-column-start: 3;
+    grid-column-end: five;
+    grid-row-start: row1-start;
+    grid-row-end: 3;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}

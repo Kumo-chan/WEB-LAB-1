@@ -13,18 +13,18 @@ If your repository is private, you must add me as collaborator to your repositor
 |-------|-------------------------------------------------------------------------------------------------------------|--------|:----:|
 | 1     | There is at least one *.html file and it is named ìndex.html                                                | 2      | [x]  |
 | 2     | The \<h1> and \<h2> tags are used at least one time                                                         | 2      | [x]  |
-| 3     | The <p> tag is used at least one time                                                                       | 2      | [x]  |
+| 3     | The \<p> tag is used at least one time                                                                      | 2      | [x]  |
 | 4     | The page index.html use at least one *.js file                                                              | 2      | [ ]  |
 | 5     | The page index.html use at least one *.css file                                                             | 2      | [x]  |
-| 6     | Each formatting tag (\<i>, \<b> and \<u>) is used at least one time                                         | 2      | [ ]  |
+| 6     | Each formatting tag (\<i>, \<b> and \<u>) is used at least one time                                         | 2      | [x]  |
 | 7     | There is at least one Hyperlink element \<a>                                                                | 2      | [x]  |
 | 8     | There is at least one media (\<img>, \<audio> or \<canvas>)                                                 | 2      | [x]  |
 | 9     | There is at least one *.css file                                                                            | 2      | [x]  |
-| 10    | At least 2 pseudo-class are used                                                                            | 2      | [ ]  |
-| 11    | The Flexbox layout is used at least one time                                                                | 2      | [ ]  |
+| 10    | At least 2 pseudo-class are used                                                                            | 2      | [x]  |
+| 11    | The Flexbox layout is used at least one time                                                                | 2      | [x]  |
 | 12    | The Grid Layout is used at least one time                                                                   | 2      | [ ]  |
 | 13    | At least 2 classes are used and declared                                                                    | 2      | [x]  |
-| 14    | There is at leat one *.js file                                                                              | 2      | [x]  |
+| 14    | There is at least one *.js file                                                                             | 2      | [x]  |
 | 15    | At least one variable is used                                                                               | 2      | [ ]  |
 | 16    | At least one function is used                                                                               | 2      | [x]  |
 | 17    | The project is on GitHub                                                                                    | 2      | [x]  |
