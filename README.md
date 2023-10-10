@@ -22,7 +22,7 @@ If your repository is private, you must add me as collaborator to your repositor
 | 9     | There is at least one *.css file                                                                            | 2      | [x]  |
 | 10    | At least 2 pseudo-class are used                                                                            | 2      | [x]  |
 | 11    | The Flexbox layout is used at least one time                                                                | 2      | [x]  |
-| 12    | The Grid Layout is used at least one time                                                                   | 2      | [ ]  |
+| 12    | The Grid Layout is used at least one time                                                                   | 2      | [x]  |
 | 13    | At least 2 classes are used and declared                                                                    | 2      | [x]  |
 | 14    | There is at least one *.js file                                                                             | 2      | [x]  |
 | 15    | At least one variable is used                                                                               | 2      | [ ]  |
